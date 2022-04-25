@@ -1,0 +1,5 @@
+Name: Иванов	Napravlenye: Math	Year: 2010	Pages: 624
+Name: Белько	Napravlenye: Math	Year: 2017	Pages: 234
+Name: Трухан	Napravlenye: Math	Year: 2016	Pages: 823
+Name: Степанов	Napravlenye: Math	Year: 2020	Pages: 783
+Name: Кузнецов	Napravlenye: Math	Year: 2004	Pages: 780
