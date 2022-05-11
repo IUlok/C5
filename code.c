@@ -20,13 +20,13 @@ t_list *create_node(char *name, char *spec, char *year, char *pages) { /*Соз�
   strcpy(node -> spec,spec);
   strcpy(node -> year, year);
   strcpy(node -> pages,pages);
-  node -> next = NULL;  /*Следующий указатель будет нулевым*/
+  node -> next = NULL;
   return node;
 }
 
-// void push_front(t_list **list, char *name, char *spec, char *year, char *pages) { /*Создание следующего элемента*/
+// void push_front(t_list **list, char *name, char *spec, char *year, char *pages) {
 //   t_list *new_element = create_node(name, spec, year, pages);
-//   new_element -> next = *list;  /*Присваивания предыдущего указателя указателем на этот элемент*/
+//   new_element -> next = *list;
 //   *list = new_element;
 // }
 
